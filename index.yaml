@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
   novosga:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-04T21:27:51.375422126-03:00"
-    description: A Helm chart for Kubernetes
-    digest: 5e5f0ae5affd8fb5cccf9e9a1b96e192bb9e3d8cddde8702f7df9c0b1bc8c172
-    name: novosga
-    type: application
-    urls:
-    - https://github.com/marcusjava/helm-charts-repo.git/novosga-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-10-04T21:27:51.375422126-03:00"
+      description: A Helm chart for Kubernetes
+      digest: 5e5f0ae5affd8fb5cccf9e9a1b96e192bb9e3d8cddde8702f7df9c0b1bc8c172
+      name: novosga
+      type: application
+      urls:
+        - https://marcusjava.github.io/helm-charts-repo/novosga-0.1.0.tgz
+      version: 0.1.0
 generated: "2023-10-04T21:27:51.370244895-03:00"
