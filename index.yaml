@@ -1,46 +1,18 @@
 apiVersion: v1
 entries:
   novosga:
-    - apiVersion: v2
-      appVersion: 1.16.0
-      created: "2023-10-06T09:06:12.329064045-03:00"
-      description: A Helm chart NovoSGA
-      digest: 1fa00f606978a74cf8be2a5f9d4accc60503043b4ee8e4bc1faf09ac794d8514
-      keywords:
-        - SGA
-        - Novo Sga
-        - NovoSGA
-      name: novosga
-      type: application
-      urls:
-        - https://marcusjava.github.io/helm-charts-repo/novosga-0.1.2.tgz
-      version: 0.1.2
-    - apiVersion: v2
-      appVersion: 1.16.0
-      created: "2023-10-06T09:06:12.32815217-03:00"
-      description: A Helm chart NovoSGA
-      digest: 2679a657e1e3c0fedcbe0d4589828300933a5c0e5b375260dd8baac2b61530aa
-      keywords:
-        - SGA
-        - Novo Sga
-        - NovoSGA
-      name: novosga
-      type: application
-      urls:
-        - https://marcusjava.github.io/helm-charts-repo/novosga-0.1.1.tgz
-      version: 0.1.1
-    - apiVersion: v2
-      appVersion: 1.16.0
-      created: "2023-10-06T09:06:12.321014852-03:00"
-      description: A Helm chart NovoSGA
-      digest: 5e5f0ae5affd8fb5cccf9e9a1b96e192bb9e3d8cddde8702f7df9c0b1bc8c172
-      keywords:
-        - SGA
-        - Novo Sga
-        - NovoSGA
-      name: novosga
-      type: application
-      urls:
-        - https://marcusjava.github.io/helm-charts-repo/novosga-0.1.0.tgz
-      version: 0.1.0
-generated: "2023-10-06T09:06:12.315088888-03:00"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-06T11:19:57.35874421-03:00"
+    description: A Helm chart NovoSGA
+    digest: d7cfa4ad25421ac135faf5822da5c1105ab4628af13c6e9cacf376323d829fd3
+    keywords:
+    - SGA
+    - Novo Sga
+    - NovoSGA
+    name: novosga
+    type: application
+    urls:
+    - https://marcusjava.github.io/helm-charts-repo/novosga-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-10-06T11:19:57.357946791-03:00"
