@@ -32,7 +32,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-10T15:45:53.6459253-03:00"
+    created: "2023-10-16T17:47:37.377752682-03:00"
     description: A Helm chart NovoSGA
     digest: d7cfa4ad25421ac135faf5822da5c1105ab4628af13c6e9cacf376323d829fd3
     keywords:
@@ -44,4 +44,15 @@ entries:
     urls:
     - https://marcusjava.github.io/helm-charts-repo/novosga-0.1.1.tgz
     version: 0.1.1
-generated: "2023-10-10T15:45:53.644802886-03:00"
+  webapp-color:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-16T17:47:37.377991666-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 2cad02d3f0c41ebfc8286c5bf5a93580494a38cf63192816355fbaf9e26c711f
+    name: webapp-color
+    type: application
+    urls:
+    - https://marcusjava.github.io/helm-charts-repo/webapp-color-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-10-16T17:47:37.376173925-03:00"
